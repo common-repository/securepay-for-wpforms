@@ -1,0 +1,143 @@
+# Copyright (C) 2021 SecurePay Sdn Bhd
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: SecurePay for WPForms 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/securepay-for-wpforms\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-10-27T14:11:10+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: securepaywpforms\n"
+
+#. Plugin Name of the plugin
+msgid "SecurePay for WPForms"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.securepay.my/?utm_source=wp-plugins-wpforms&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr ""
+
+#. Description of the plugin
+msgid "SecurePay payment platform plugin for WPforms"
+msgstr ""
+
+#. Author of the plugin
+msgid "SecurePay Sdn Bhd"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.securepay.my/?utm_source=wp-plugins-wpforms&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:53
+msgid "Enable SecurePay test mode"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:57
+msgid "Enable this option to test without credentials"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:67
+msgid "Enable SecurePay live mode"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:71
+msgid "Enable this option to use on production"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:81
+msgid "SecurePay Live Token"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:84
+msgid "Your SecurePay Live Token"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:94
+msgid "SecurePay Live Checksum Token"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:97
+msgid "Your SecurePay Live Checksum Token"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:107
+msgid "SecurePay Live UID"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:110
+msgid "Your SecurePay Live UID"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:120
+msgid "SecurePay Live Partner UID"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:123
+msgid "Your SecurePay Live Partner UID"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:136
+msgid "Enable SecurePay sandbox mode"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:140
+msgid "Enable this option to use on development"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:150
+msgid "SecurePay Sandbox Token"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:153
+msgid "Your SecurePay Sandbox Token"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:163
+msgid "SecurePay Sandbox Checksum Token"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:166
+msgid "Your SecurePay Sandbox Checksum Token"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:176
+msgid "SecurePay Sandbox UID"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:179
+msgid "Your SecurePay Sandbox UID"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:189
+msgid "SecurePay Sandbox Partner UID"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:192
+msgid "Your SecurePay Sandbox Partner UID"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:205
+msgid "Show Bank List"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:218
+msgid "Use Supported Bank Logo"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:231
+msgid "Payment Failed Redirect URL"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:234
+msgid "SecurePay Payment Failed Redirect URL"
+msgstr ""
+
+#: includes/src/WPForms_SecurePay_Payment.php:570
+msgid "SecurePay Payment Error"
+msgstr ""
